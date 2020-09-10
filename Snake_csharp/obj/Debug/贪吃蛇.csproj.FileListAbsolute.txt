@@ -1,0 +1,13 @@
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\bin\Debug\贪吃蛇.exe.config
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\bin\Debug\贪吃蛇.exe
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\bin\Debug\贪吃蛇.pdb
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.csprojAssemblyReference.cache
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.Properties.Resources.resources
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.csproj.GenerateResource.cache
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.csproj.CoreCompileInputs.cache
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.exe
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.pdb
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.ControlFrm.resources
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.GameFrm.resources
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.AboutMe.resources
+C:\Users\65602\Desktop\delete\C#\贪吃蛇\obj\Debug\贪吃蛇.HowToPlay.resources
