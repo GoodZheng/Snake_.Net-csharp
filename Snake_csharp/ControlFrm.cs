@@ -1,4 +1,11 @@
-﻿using System;
+/* ==============================================================================
+ * 功能描述：    贪吃蛇小游戏
+ * 创 建 者：    泰勒Peano
+ * 交流邮箱：    goodzheng@88.com
+ * 交流QQ：      656029714
+ * 创建日期：    2020.08.12
+ * ==============================================================================*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
